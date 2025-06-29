@@ -1,58 +1,27 @@
-## Hi there, I'm Md Nazmus Shakib Mun 👋
+<h1 align="center">Hi 👋, I'm Md Nazmus Shakib Mun</h1>
+<h3 align="center">## Currently mastering Git, GitHub workflows, branching, merging, Docker, Jenkins, and CI/CD to advance my DevOps skills.</h3>
 
-🚀 Welcome to my GitHub profile! I'm passionate about **DevOps**, **Linux**, **Networking**, and building powerful, scalable systems. Currently, I'm diving deep into DevOps tools and practices to become a skilled DevOps Engineer.  
 
----
+<img align="right" alt="javascript" width="400" src="https://images.app.goo.gl/XiJRfn6FEGpAKcLm9">
 
-### 💻 About Me
 
-- 🎓 I'm a student and a tech enthusiast who loves to learn new things every day.
-- 🛠️ I'm currently working on:
-  - Setting up CI/CD pipelines
-  - Learning Docker, Kubernetes & Jenkins
-  - Managing projects with Git & GitHub
-- 🌱 Currently Learning:
-  - **Linux commands and shell scripting**
-  - **DevOps tools** like Docker, Jenkins, GitHub Actions, etc.
-  - **Cloud Platforms** (AWS basics)
-- 🔍 Interested in:
-  - Open source contributions
-  - System Administration
-  - Automation and Infrastructure as Code (IaC)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakib4336&label=Profile%20views&color=0e75b6&style=flat" alt="shakib4336" /> </p>
 
----
+- 🔭 I’m currently working on Computer Science and Engineering [Darmatory](https://github.com/shakib4336/Darmatory/blob/main/project.c)
 
-### 🧰 Tools & Technologies
+- 📫 How to reach me **nazmusshakib195@gmail.com**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib4336&show_icons=true&theme=radical" alt="Shakib's GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib4336&theme=radical" alt="GitHub Streak" width="45%"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/nazmussakib.moon.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmussakib.moon.1" height="30" width="40" /></a>
+<a href="https://instagram.com/nazmus_shakib2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmus_shakib2108" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 📫 Connect With Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib4336&show_icons=true&locale=en&layout=compact" alt="shakib4336" /></p>
 
-- 💬 Ask me anything about DevOps or programming!
-- 📧 Email: [shakib4336@gmail.com](mailto:shakib4336@gmail.com)
-- 🌐 Portfolio (Coming soon)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakib4336&show_icons=true&locale=en" alt="shakib4336" /></p>
 
----
-
-### ⚡ Fun Fact
-
-> I'm not just a techie – I'm also someone who believes in learning by doing and helping others along the way. Let's grow together! 🚀
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib4336&" alt="shakib4336" /></p>
