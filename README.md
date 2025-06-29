@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="devops" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*qLTMkJzldptJh5W9JGQWVw.gif">
-<img align="right" alt="devops" width="500" src="<img align="right" alt="devops" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*qLTMkJzldptJh5W9JGQWVw.gif">">
+<img align="right" alt="devops" width="400" src="<img align="right" alt="devops" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*qLTMkJzldptJh5W9JGQWVw.gif">">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakib4336&label=Profile%20views&color=0e75b6&style=flat" alt="shakib4336" /> </p>
