@@ -2,7 +2,7 @@
 <h3 align="center">## Currently mastering Git, GitHub workflows, branching, merging, Docker, Jenkins, and CI/CD to advance my DevOps skills.</h3>
 
 
-<img align="right" alt="javascript" width="500" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696253326872/aab6d8e2-88bf-4d56-a2ab-4ce46f2cdcfa.gif?auto=format,compress&gif-q=60&format=webm">
+<img align="right" alt="devops" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*qLTMkJzldptJh5W9JGQWVw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakib4336&label=Profile%20views&color=0e75b6&style=flat" alt="shakib4336" /> </p>
