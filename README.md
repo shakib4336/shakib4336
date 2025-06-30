@@ -8,9 +8,9 @@
   </span>
 </h1>
 
-<!-- Typing effect using SVG -->
+<!-- Typing effect using SVG (professional DevOps intro) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC00FF&center=true&vCenter=true&width=500&lines=Developer;DevOps+Enthusiast;Coder;Tech+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC00FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer+with+a+passion+for+automation;Transforming+ideas+into+scalable+infrastructure;Automating+CI%2FCD+pipelines+with+precision;Cloud-native+%7C+GitHub+Actions+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
 </p>
 
 <!-- Side by side images with shadow and rounded corners -->
@@ -78,4 +78,5 @@
 
 <!-- GitHub streak -->
 <p align="center" style="margin-top: 40px;">
-  <img src="https://gith
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib4336&theme=radical" alt="GitHub Streak" />
+</p>
