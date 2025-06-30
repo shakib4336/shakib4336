@@ -8,11 +8,9 @@
   </span>
 </h1>
 
-<!-- Animated typing effect -->
-<p align="center" style="font-size: 20px; font-weight: 600; margin-top: -10px; margin-bottom: 40px;">
-  <b><i>
-    <span id="typed-text"></span><span class="cursor">|</span>
-  </i></b>
+<!-- Typing effect using SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC00FF&center=true&vCenter=true&width=500&lines=Developer;DevOps+Enthusiast;Coder;Tech+Lover" alt="Typing SVG" />
 </p>
 
 <!-- Side by side images with shadow and rounded corners -->
@@ -45,9 +43,6 @@
 <!-- Project and contact -->
 <p align="center" style="font-size: 18px; font-weight: 500; margin-bottom: 25px;">
   🔭 Currently working on <strong>Computer Science and Engineering</strong><br>
-  <a href="https://github.com/shakib4336/Darmatory/blob/main/project.c" target="_blank" style="color: #7D5FFF; font-weight: 700; text-decoration: none;">
-    Darmatory Project
-  </a><br>
   📫 Reach me at <b>nazmusshakib195@gmail.com</b>
 </p>
 
@@ -77,47 +72,4 @@
 
 <!-- GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib4336&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 25px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib4336&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakib4336&theme=radical" alt="GitHub Streak" />
-</p>
-
-<!-- Typing animation script -->
-<script>
-  const typedTextSpan = document.getElementById('typed-text');
-  const textArray = ['Developer', 'DevOps Enthusiast', 'Coder', 'Tech Lover'];
-  const typingDelay = 150;
-  const erasingDelay = 100;
-  const newTextDelay = 2000; // Delay between current and next text
-  let textArrayIndex = 0;
-  let charIndex = 0;
-
-  function type() {
-    if (charIndex < textArray[textArrayIndex].length) {
-      typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
-      charIndex++;
-      setTimeout(type, typingDelay);
-    } else {
-      setTimeout(erase, newTextDelay);
-    }
-  }
-
-  function erase() {
-    if (charIndex > 0) {
-      typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex - 1);
-      charIndex--;
-      setTimeout(erase, erasingDelay);
-    } else {
-      textArrayIndex++;
-      if (textArrayIndex >= textArray.length) textArrayIndex = 0;
-      setTimeout(type, typingDelay + 1100);
-    }
-  }
-
-  document.addEventListener('DOMContentLoaded', function () {
-    if(textArray.length) setTimeout(type, newTextDelay + 250);
-  });
-</script>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib4336&show_icons=true&theme=radical" alt="_
