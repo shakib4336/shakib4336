@@ -72,4 +72,10 @@
 
 <!-- GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib4336&show_icons=true&theme=radical" alt="_
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib4336&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 25px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib4336&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- GitHub streak -->
+<p align="center" style="margin-top: 40px;">
+  <img src="https://gith
