@@ -2,9 +2,9 @@
 <h3 align="center">## Currently mastering Git, GitHub workflows, branching, merging, Docker, Jenkins, and CI/CD to advance my DevOps skills.</h3>
 
 
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w" alt="Left Image" width="200"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w" alt="Left Image" width="400"/>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*qLTMkJzldptJh5W9JGQWVw.gif" alt="Right Image" width="200"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*qLTMkJzldptJh5W9JGQWVw.gif" alt="Right Image" width="400"/>
 
 
 
